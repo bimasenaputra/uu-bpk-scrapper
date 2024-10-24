@@ -1,0 +1,8 @@
+azure-storage-blob
+aiofiles
+aiohttp
+requests-html
+tqdm
+PyMuPDF
+lxml-html-clean
+pandas
