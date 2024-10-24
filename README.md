@@ -1,5 +1,6 @@
 # uu-bpk-scrapper
-Get all PDFs from BPK website, convert it to text, and save the results to azure cloud storage
+```/scrap```: Get all PDFs from BPK website, convert it to text, and save the results to azure cloud storage
+```/status```: Get all laws relationships (status) and save it as two relational tables (uu & status) in CSV format
 
 ---
 
